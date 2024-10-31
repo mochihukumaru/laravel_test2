@@ -1,0 +1,16 @@
+.header{
+    max-width: 1520px;
+    max-height: 53px;
+    padding: 10px 20px;
+    gap: 10px;
+    background-color: #FFFFFF;
+}
+
+.header__heading{
+    font-family: jsMath-cmti10;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 30px;
+    line-height: 32.73px;
+    color: #F5C800;
+}
